@@ -1,0 +1,6 @@
+nome = "Anderson Ricardo G Amaral"
+idade = 41
+cidade = "Joinville" 
+programador = True 
+gosta_de_programar = True 
+print(f"Olá! meu nome è {nome}, e tenho {idade} anos e moro em {cidade}. Sou programador! e gosto de Programar: {str(gosta_de_programar).lower()}.")
