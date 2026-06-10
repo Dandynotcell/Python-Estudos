@@ -6,7 +6,10 @@ mensagem = f"ola, {nome}! Bem Vindo Ao Python"
 print (mensagem)
 
 # Bibliotecas Python: O que são e para que servem?
-# Bibliotecas são coleções de código pré-escrito que fornecem funcionalidades específicas. Elas permitem que os desenvolvedores reutilizem código, economizando tempo e esforço. As bibliotecas podem incluir funções, classes e módulos que facilitam a realização de tarefas comuns, como manipulação de dados, criação de interfaces gráficas, acesso a bancos de dados, entre outros. Elas são essenciais para o desenvolvimento eficiente e rápido de software em Python.
+# Bibliotecas são coleções de código pré-escrito que fornecem funcionalidades específicas.
+# Elas permitem que os desenvolvedores reutilizem código, economizando tempo e esforço. 
+# As bibliotecas podem incluir funções, classes e módulos que facilitam a realização de tarefas comuns, como manipulação de dados, criação de interfaces gráficas,
+# acesso a bancos de dados, entre outros. Elas são essenciais para o desenvolvimento eficiente e rápido de software em Python.
 # Exemplo de uso de biblioteca: importando a biblioteca math para calcular a raiz quadrada
 import math 
 print (math.sqrt (25))
