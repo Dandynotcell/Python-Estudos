@@ -1,6 +1,6 @@
 def calcular_imc(peso, altura):
     if altura <= 0:
-        raise valueError("A altura precisa ser maior que zero")
+        raise ValueError("A altura precisa ser maior que zero")
     
     imc = peso / (altura ** 2)
     return imc
